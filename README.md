@@ -1,5 +1,5 @@
-# Character designs CMD1A
-In deze repo komen alle geëxporteerde .png files van alle Character designs die studenten uit klas CMD1A hebben gemaakt.
+# Character designs CMD1B
+In deze repo komen alle geëxporteerde .png files van alle Character designs die studenten uit klas CMD1B hebben gemaakt.
 
 * Upload je eigen character export png file naar de root in de main branch.
 * De exports hebben vanuit de Character design opdracht al de correcte naam als je de `let author` variabele netjes had gevuld.
